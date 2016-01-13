@@ -1,3 +1,9 @@
-#tallEnough, #notTallEnough {
-  display: none;
+.allowed {
+  background-color: yellow;
+}
+
+img {
+  width: 30%;
+  height: 200px;
+
 }
